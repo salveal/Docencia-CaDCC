@@ -15,3 +15,8 @@ Si sientes que hay una materia que te está costando mucho, y conoces a gente qu
 Atentamente,
 
 CaDCC
+
+## ¿Sabes lo que es GitHub?
+
+- [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE&t=116s)
+- [Curso Git - Introducción](https://www.youtube.com/watch?v=ANF1X42_ae4)
