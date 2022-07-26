@@ -18,6 +18,8 @@ CaDCC
 
 ## ¿Sabes lo que es GitHub?
 
+Como habrás notado, todo este repositorio está realizado en GitHub, el cuál es muy probable no hayas escuchado mencionar antes, en caso de que así sea, te dejamos una serie de videos para que puedas familiarizarte con una de las plataformas más importantes en el mundo de la computación.
+
 ### Videos
 - [¿Qué es Git y cómo funciona?](https://www.youtube.com/watch?v=jGehuhFhtnE&t=116s)
 - [Curso Git - Introducción](https://www.youtube.com/watch?v=ANF1X42_ae4)
